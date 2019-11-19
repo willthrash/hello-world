@@ -3,4 +3,4 @@ Just another repository
 
 Hello everyone.
 
-I am willthrash, director of data solutions at Perficient.  
+I am  Will Thrash, director of data solutions at Perficient.  
